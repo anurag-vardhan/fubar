@@ -1,1 +1,1 @@
-mac.h merged first line 
+mac.h modification by someone else first line 
